@@ -1,0 +1,143 @@
+body {
+  background-color: #251749;
+  margin: 0;
+  text-align: center;
+  font-family: 'Didact Gothic', sans-serif;
+  color: #263159
+}
+
+.top_container {
+  background-color: #FFFBEB;
+  height: 1000px;
+  text-align: center;
+  position: relative;
+  padding-top: 100px;
+}
+
+h1 {
+  margin: 0 auto 0 auto;
+  font-family: 'Amatic SC', cursive;
+  font-size: 40px;
+}
+
+.elh2 {
+  font-size: 2.5rem;
+  color: inherit;
+}
+
+.middle_container {}
+
+.bottom_container {
+  background-color: #FFFBEB;
+margin: auto;}
+
+span {
+  font-family: monospace;
+  height: 18px;
+}
+
+.cloud1 {
+  position: absolute;
+  right: 100px;
+  top: 50px;
+}
+
+h2, h3, p {
+  color: powderblue;
+}
+
+hr {
+  border-top: dotted 9px;
+  color: #495579;
+border-bottom: none;
+border-left: none;
+border-right: none;
+width: 10%;
+
+
+
+
+}
+
+.cloud2 {
+  position: absolute;
+  left: 100px;
+
+
+}
+
+
+
+.div-text-inlinblock {
+  display: inline-block;
+}
+
+.text1 {
+  color: #263159;
+}
+.skill-row{
+width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
+
+}
+.planet {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+.stardust {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.skills-description {
+  clear: left;
+}
+.skills-description2 {
+  clear: right
+
+}
+.btn {
+  background:  #11cdd4;
+  background-image: -webkit-linear-gradient(top,  #11cdd4,  #11999e);
+  background-image: -moz-linear-gradient(top,  #11cdd4,  #11999e);
+  background-image: -ms-linear-gradient(top,  #11cdd4,  #11999e);
+  background-image: -o-linear-gradient(top,  #11cdd4,  #11999e);
+  background-image: linear-gradient(to bottom,  #11cdd4,  #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 26px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background:   #30e3cb;
+  background-image: -webkit-linear-gradient(top,   #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top,   #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top,   #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top,   #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom,   #30e3cb, #2bc4ad);
+  text-decoration: none;
+
+}
+.bottom-container{
+  background-color: #263159;
+  height: 90px;
+  padding: 20px;
+}
+a {
+  font-family: 'Didact Gothic', sans-serif;
+  color: #6D67E4;
+  text-decoration: none;
+ margin: 20px 20px;
+}
+a:hover {
+  color: white;
+}
